@@ -1,5 +1,5 @@
 {
-  "name": "com.zodiark.noisebasedrng",
+  "name": "zodiark.noise-based-rnp",
   "displayName": "Noise-based RNG",
   "description": "Unity noise-based RNG provide random number generator by using noise.",
   "version": "0.0.1-preview.1",
@@ -14,18 +14,5 @@
     "email": "scyther1991@gmail.com",
     "url": "https://github.com/BrokenHell"
   },
-  "dependencies": {},
-  "keywords": [
-    "unity-noise-based-rng",
-    "random",
-    "rng"
-    "RNG"
-  ]
-  // "samples": [
-  //   {
-  //     "displayName": "Demo",
-  //     "description": "UI Effect Demo",
-  //     "path": "Samples~/Demo"
-  //   }
-  // ]
+  "keywords": []
 }

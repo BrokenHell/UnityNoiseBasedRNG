@@ -1,0 +1,16 @@
+{
+    "name": "com.zodiark.random.samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9de45015de34b4c9c9e2e22c1c5e1b69"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
