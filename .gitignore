@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+NoiseBasedRNG/Library
+NoiseBasedRNG/Temp
+NoiseBasedRNG/obj
+NoiseBasedRNG/Logs

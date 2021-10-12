@@ -1,0 +1,31 @@
+{
+  "name": "com.zodiark.noisebasedrng",
+  "displayName": "Noise-based RNG",
+  "description": "Unity noise-based RNG provide random number generator by using noise.",
+  "version": "0.0.1-preview.1",
+  "unity": "2017.1",
+  "license": "BSD 3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrokenHell/unity-noise-based-rng.git"
+  },
+  "author": {
+    "name": "Nguyen Vinh Loc",
+    "email": "scyther1991@gmail.com",
+    "url": "https://github.com/BrokenHell"
+  },
+  "dependencies": {},
+  "keywords": [
+    "unity-noise-based-rng",
+    "random",
+    "rng"
+    "RNG"
+  ]
+  // "samples": [
+  //   {
+  //     "displayName": "Demo",
+  //     "description": "UI Effect Demo",
+  //     "path": "Samples~/Demo"
+  //   }
+  // ]
+}
