@@ -30,7 +30,7 @@ namespace Zodiark.Utilities
         /// <summary>
         /// Returns random value within range [0.0..1.0] ( range is exclusive )
         /// </summary>
-        public float Value => NoiseBasedRNG.Get1dNoiseZeroToOne(position, seed);
+        public float Value => NoiseBasedRNG.Get1dNoiseZeroToOne(position++, seed);
         /// <summary>
         /// Get current seed
         /// </summary>

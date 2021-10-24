@@ -1,8 +1,5 @@
-using System.Collections;
-using System.Diagnostics;
 using TMPro;
 using UnityEngine;
-using Zodiark.Utilities;
 
 namespace Zodiark.Demos
 {
