@@ -89,7 +89,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "zodiark.noise-based-rnp": {
+    "zodiark.noise-based-rng": {
       "version": "file:NoiseBasedRNG",
       "depth": 0,
       "source": "embedded",

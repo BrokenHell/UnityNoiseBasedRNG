@@ -1,5 +1,5 @@
 {
-  "name": "zodiark.noise-based-rnp",
+  "name": "zodiark.noise-based-rng",
   "displayName": "Noise-based RNG",
   "description": "Unity noise-based RNG provide random number generator by using noise.",
   "version": "0.0.1-preview.1",
