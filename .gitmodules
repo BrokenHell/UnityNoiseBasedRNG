@@ -1,0 +1,3 @@
+[submodule "unity-noise-based-rng"]
+	path = unity-noise-based-rng
+	url = https://github.com/BrokenHell/unity-noise-based-rng.git

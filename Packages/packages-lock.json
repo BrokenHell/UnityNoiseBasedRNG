@@ -90,7 +90,7 @@
       }
     },
     "zodiark.noise-based-rng": {
-      "version": "file:NoiseBasedRNG",
+      "version": "file:unity-noise-based-rng",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
