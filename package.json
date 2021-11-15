@@ -7,7 +7,7 @@
   "license": "BSD 3-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrokenHell/unity-noise-based-rng.git"
+    "url": "git+https://github.com/BrokenHell/UnityNoiseBasedRNG.git"
   },
   "author": {
     "name": "Nguyen Vinh Loc",
